@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://ergasia/Car_Specs#">
+  <rdf:Description rdf:about="http://ergasia/Car_Specs#Car">
+    <j.0:hasOutside>
+      <rdf:Description rdf:about="http://ergasia/Car_Specs#outside">
+        <j.0:hasOutside>
+          <rdf:Description rdf:about="http://ergasia/Car_Specs#engine">
+            <j.0:hasOutside>
+              <rdf:Description rdf:about="http://ergasia/Car_Specs#engine_type">
+                <j.0:hasOutside>Random</j.0:hasOutside>
+              </rdf:Description>
+            </j.0:hasOutside>
+            <j.0:hasOutside>
+              <rdf:Description rdf:about="http://ergasia/Car_Specs#engine_size">
+                <j.0:hasOutside>25</j.0:hasOutside>
+              </rdf:Description>
+            </j.0:hasOutside>
+            <j.0:hasOutside>
+              <rdf:Description rdf:about="http://ergasia/Car_Specs#transmission_type">
+                <j.0:hasOutside>manual</j.0:hasOutside>
+              </rdf:Description>
+            </j.0:hasOutside>
+            <j.0:hasOutside>
+              <rdf:Description rdf:about="http://ergasia/Car_Specs#transmission_system">
+                <j.0:hasOutside>4x4</j.0:hasOutside>
+              </rdf:Description>
+            </j.0:hasOutside>
+            <j.0:hasOutside>
+              <rdf:Description rdf:about="http://ergasia/Car_Specs#fuel_type">
+                <j.0:hasOutside>Gas</j.0:hasOutside>
+              </rdf:Description>
+            </j.0:hasOutside>
+          </rdf:Description>
+        </j.0:hasOutside>
+        <j.0:hasOutside>
+          <rdf:Description rdf:about="http://ergasia/Car_Specs#color">
+            <j.0:hasOutside>red</j.0:hasOutside>
+          </rdf:Description>
+        </j.0:hasOutside>
+        <j.0:hasOutside>
+          <rdf:Description rdf:about="http://ergasia/Car_Specs#model">
+            <j.0:hasOutside>2</j.0:hasOutside>
+          </rdf:Description>
+        </j.0:hasOutside>
+        <j.0:hasOutside>
+          <rdf:Description rdf:about="http://ergasia/Car_Specs#brand">
+            <j.0:hasOutside>?????</j.0:hasOutside>
+          </rdf:Description>
+        </j.0:hasOutside>
+      </rdf:Description>
+    </j.0:hasOutside>
+    <j.0:hasInside>
+      <rdf:Description rdf:about="http://ergasia/Car_Specs#inside">
+        <j.0:hasInside>
+          <rdf:Description rdf:about="http://ergasia/Car_Specs# console">
+            <j.0:hasInside>
+              <rdf:Description rdf:about="http://ergasia/Car_Specs#navigation">
+                <j.0:hasInside>xd</j.0:hasInside>
+              </rdf:Description>
+            </j.0:hasInside>
+            <j.0:hasInside>
+              <rdf:Description rdf:about="http://ergasia/Car_Specs#air-condition">
+                <j.0:hasInside>yes</j.0:hasInside>
+              </rdf:Description>
+            </j.0:hasInside>
+            <j.0:hasInside>
+              <rdf:Description rdf:about="http://ergasia/Car_Specs#speedometer">
+                <j.0:hasInside>220</j.0:hasInside>
+              </rdf:Description>
+            </j.0:hasInside>
+          </rdf:Description>
+        </j.0:hasInside>
+        <j.0:hasInside>
+          <rdf:Description rdf:about="http://ergasia/Car_Specs#airbags">
+            <j.0:hasInside>4</j.0:hasInside>
+          </rdf:Description>
+        </j.0:hasInside>
+        <j.0:hasInside>
+          <rdf:Description rdf:about="http://ergasia/Car_Specs#window_handler">
+            <j.0:hasInside>xd2</j.0:hasInside>
+          </rdf:Description>
+        </j.0:hasInside>
+      </rdf:Description>
+    </j.0:hasInside>
+  </rdf:Description>
+</rdf:RDF>
